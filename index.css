@@ -1,5 +1,10 @@
+@font-face {
+  font-family: Sreda;
+  src: url(Sreda.ttf);
+}
+
 :root {
-  --yellow:#F7B500;
+  --yellow:#B0E0E6;
   --muted:#F8F9FA;
   --shadow:0 6px 18px rgba(0,0,0,.08);
   --radius:14px;
